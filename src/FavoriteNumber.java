@@ -15,6 +15,8 @@ public class FavoriteNumber {
 
             System.out.println("You entered " + numberEntered);
 
+        } else {
+            System.out.println("You entered an invalid number.");
         }
 
     }

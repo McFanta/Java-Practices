@@ -5,3 +5,4 @@ public class dialog {
         showMessageDialog(null, "Hello " + name);
     }
 }
+
